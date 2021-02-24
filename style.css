@@ -1,0 +1,78 @@
+div.top{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+    width: 100%;
+    text-align: center;
+    word-spacing: 12px;  
+}
+.top a:visited{
+    color: darkgrey;
+}
+a{
+    text-decoration: none;
+}
+#date{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+.down{
+ text-align: center;
+}
+
+.home{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 24px;
+}
+.home a:hover {
+    color: black;
+    padding: 8px;
+    background-color: lightgray;
+    text-decoration: none;}
+    .home a:visited{
+        color: black;
+    }
+
+.s
+{
+    border: none;
+    text-align: right;
+}
+h2,p{
+    margin-left: 130px;
+    margin-right: 450px;
+}
+h1{
+    margin-left: 130px;
+    margin-right: 450px;
+} 
+
+.submit{
+font-family: Arial, Helvetica, sans-serif;
+color: darkred;
+}
+.online{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+/* .name{
+    margin-left: 130px;
+    margin-right: 450px;
+} */
+.ch{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    }
+.pol{
+        font-family: Arial, Helvetica, sans-serif;
+        color: gray;
+    }
+    .sb{
+        margin-left: 610px;
+    margin-right: 350px;
+    }
+.sb a:hover{
+    background-color: black;
+}
